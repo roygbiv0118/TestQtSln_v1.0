@@ -1,0 +1,9 @@
+<RCC>
+	<qresource>
+		<file alias="test.jpg">../Resource/image/test.jpg</file>
+		<file alias="lena.png">../Resource/lena.png</file>
+		<file alias="test.png">../Resource/test.png</file>
+		<file alias="test.txt">../Resource/test.txt</file>
+		<file alias="test.xlsx">../Resource/test.xlsx</file>
+	</qresource>
+</RCC>
