@@ -1,7 +1,8 @@
 @ECHO OFF
 
-SET QT_DIR=D:\SDK\qt-5.x_x86_vc120\5.5\msvc2013
+::SET QT_DIR=D:\SDK\qt-5.x_x86_vc120\5.5\msvc2013
 SET OPENCV_DIR=D:\SDK\opencv_3.0.0
+SET QT_DIR=D:\Qt\Qt5.4.2\5.4\msvc2013
 
 rd /s/q build
 md build
