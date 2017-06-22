@@ -32,8 +32,8 @@ MYUI::MYUI(QWidget *parent)
 
 	QString strHtml = QString("<p> <font color=#00F0FF size=12>abcdefg</font> <b><i>zzxxyy</b></i> </p>");
 	strHtml += QString::fromLocal8Bit("<p> <font color=#0000FF size=10>aabbccdd</font><u>linelineline</u>abcabcabc</p> \
-									  									  						<p><hr width=\"80%\" color=\"blue\" /></p> \
-																																													<a><img src=\"???.jpg\" alt=\"test\" /></a>");
+										<p><hr width=\"80%\" color=\"blue\" /></p> \
+										<a><img src=\"???.jpg\" alt=\"test\" /></a>");
 	ui.textEdit->setHtml(strHtml);
 
 	Initialize();
